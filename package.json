@@ -1,0 +1,11 @@
+{
+  "name": "house-listing-project",
+  "version": "1.0.0",
+  "description": "The purpose of this repo, is that it's a self learning exercrise for myself to create a house listing site using the following",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
